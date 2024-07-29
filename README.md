@@ -1,5 +1,5 @@
 # Flower-Shop
-# Featurs: Add to Cart, WishList, Delete Cart, Update Cart,.....
+** Featurs: Add to Cart, WishList, Delete Cart, Update Cart,.....**
 
 [Watch Demo](https://flower-shop-five-sigma.vercel.app/)
 
