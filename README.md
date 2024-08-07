@@ -14,7 +14,7 @@
 
  📅2024-07-29
 
- 👩‍💻Used **Html , css, React, TailwindCss, JavaScript** 
+ 👩‍💻Used **Html , css, React, TailwindCss** 
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
